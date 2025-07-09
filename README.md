@@ -33,7 +33,7 @@ An AI-powered tool that automatically matches candidate resumes with job descrip
 4. Resumes are ranked by relevance to the job
 
 ##  Author
-**Anantha kumar.S**
+**dhikshitha.S**
 
 ##  License
 This project is open-source and free to use.
