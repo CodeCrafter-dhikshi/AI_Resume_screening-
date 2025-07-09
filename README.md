@@ -1,15 +1,15 @@
- AI Resume Screening Tool
+## AI Resume Screening Tool
 
 An AI-powered tool that automatically matches candidate resumes with job descriptions using Natural Language Processing (NLP).
 
- Features
+## Features
 - Upload multiple resumes and a job description
 - Extracts text from PDF resumes
 - Uses **TF-IDF Vectorization** + **Cosine Similarity** to match resumes
 - Ranks resumes by relevance
 - Built with **Python**, **spaCy**, and **Streamlit**
 
- Technologies Used
+## Technologies Used
 - Python
 - Streamlit
 - spaCy
@@ -17,7 +17,7 @@ An AI-powered tool that automatically matches candidate resumes with job descrip
 - PyMuPDF (fitz)
 - pandas
 
- How to Run the Project
+## How to Run the Project
 
 1. Activate your environment:
 
@@ -25,15 +25,15 @@ An AI-powered tool that automatically matches candidate resumes with job descrip
 
 3. Run the app:
 
-## 📄 How It Works
+##  How It Works
 
 1. Upload a **job description (PDF)**
 2. Upload **one or more resumes (PDFs)**
 3. The app extracts text and calculates similarity using NLP
 4. Resumes are ranked by relevance to the job
 
-## ✍️ Author
+##  Author
 **Anantha kumar.S**
 
-## 📃 License
+##  License
 This project is open-source and free to use.
